@@ -2,6 +2,8 @@ This is Nbody6++GPU - Beijing version, an N-body star cluster simulation code, m
 
 The code is an offspring of Sverre Aarseth's direct N-body codes see www.sverre.com . 
 
+Irgendein test
+
 This is the code suitable for parallel and GPU accelerated runs on supercomputers and workstations. Before we give some more practical help, please read the following disambiguation; there is another github of Nbody6++GPU:
 
 LW: https://github.com/nbodyx/  - if interested please contact and collaborate
